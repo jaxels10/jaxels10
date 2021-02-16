@@ -3,9 +3,9 @@
 
 ### Current Job
 I am a full time worker for IT Minds, Denmark as a software developer.
-Date employed:          Jan 2020 – Present
-Employment duration:    1 yr 2 mos
-Location:               Aarhus, Middle Jutland, Denmark
+  - Date employed:          Jan 2020 – Present
+  - Employment duration:    1 yr 2 mos
+  - Location:               Aarhus, Middle Jutland, Denmark
 
 My responsibilities as Software Developer are
   - Development and test of inhouse projects
