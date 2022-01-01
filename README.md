@@ -2,30 +2,41 @@
 
 
 ### Current Job
-I am a full time worker for IT Minds, Denmark as a software developer.
+I am a full time worker for IT Minds, Denmark as a senior software developer.
   - Date employed:          Jan 2020 – Present
   - Location:               Aarhus, Middle Jutland, Denmark
 
-My responsibilities as Software Developer are
-  - Development and test of inhouse projects
-  - Consultancy at customers
-  - Customer dialogue, and help ensure the best possible solution for our customers
+My responsibilities as a Senior Software Developer are
+- Development, Architecture, and test of in-house projects
+- Consultancy at customers
+- Project estimation, customer dialogue, and help ensure the best possible solution for
+our customers
+- Responsible for the quality and delivery of own projects
+- Mentoring, knowledge building and sharing internally
 
 I have worked with the following technologies
-  * Docker
-  * Kubernetes
-  * Azure
-  * GO
-  * Python
-  * Helm/Rook/Ceph
-  * Scalable Distributed storage/systems/technologies
-  * Real time data and architecture for real time data platforms
-  * Linux/Virtual Machines
-  * Test automation(Appium, openCV, Selenium)
-  * PHP
-  * JS
-  * Java
-  * Github
+* Docker
+* Kubernetes
+* Azure
+* Argo CD/WF/Events
+* GO
+* Python
+* Helm
+* Rook/Ceph
+* Harbor
+* Loki
+* Prometheus
+* Grafana
+* Ingress
+* Kafka
+* Scalable Distributed storage/systems/technologies
+* Real time data and architecture for real time data platforms
+* Linux/Virtual Machines
+* Test automation(Appium, openCV, Selenium)
+* PHP
+* JS
+* Java
+* Github
 
 What is IT Minds?
 IT Minds is an IT consultancy consisting of young IT talents. We consist of both talented
