@@ -1,18 +1,14 @@
 ## Hi, I'm Jesper @jaxels10! 
 
-
 ### Current Job
-I am a full time worker for IT Minds, Denmark as a senior software developer.
-  - Date employed:          Jan 2020 – Present
-  - Location:               Aarhus, Middle Jutland, Denmark
+Hello! I'm a Senior DevOps Engineer and doing freelance through my company Axelsen consulting. I specialize in helping businesses improve their operations by implementing modern DevOps solutions. My freelance work centers around Kubernetes, Docker, and various CNCF projects, with a focus on building container platforms that streamline software delivery.
 
-My responsibilities as a Senior Software Developer are
-- Development, Architecture, and test of in-house projects
-- Consultancy at customers
-- Project estimation, customer dialogue, and help ensure the best possible solution for
-our customers
-- Responsible for the quality and delivery of own projects
-- Mentoring, knowledge building and sharing internally
+Key responsibilities:
+- Architecting DevOps Solutions
+- Continuous Integration and Deployment (CI/CD)
+- Automation and Monitoring
+- Collaboration and Leadership
+- Best Practices and Knowledge Sharing
 
 I have worked with the following technologies
 * Docker
@@ -37,16 +33,6 @@ I have worked with the following technologies
 * JS
 * Java
 * Github
-
-What is IT Minds?
-IT Minds is an IT consultancy consisting of young IT talents. We consist of both talented
-student employees, graduates, and employees with years of experience. Our unique
-combination of employees means that we can provide flexible and competent resources for
-existing development teams, or take on whole projects and develop solutions in­house. Our
-focus area includes the development of web applications, database solutions, mobile
-applications, and other areas to strengthen and improve the workflow and processes of our
-customers.
-_____________________________________________________________________________________________________________________
 
 ### Education
 Bsc. of software engineering from Aalborg University. 
