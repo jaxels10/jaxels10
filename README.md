@@ -1,7 +1,7 @@
 ## Hi, I'm Jesper @jaxels10! 
 
 ### Current Job
-Hello! I'm a Senior Platform/DevOps Engineer and doing freelance through my company Axelsen consulting. I specialize in helping businesses improve their operations by implementing modern DevOps solutions. My freelance work centers around Kubernetes, Docker, and various CNCF projects, with a focus on building container platforms that streamline software delivery.
+Hello! I'm a Senior Platform/DevOps Engineer and doing freelance through my company Axelsen consulting. I specialize in helping businesses improve their operations by implementing modern DevOps solutions and building highly available, secure and stable platforms. My freelance work centers around Kubernetes, Docker, and various CNCF projects, with a focus on building container platforms that streamline software delivery.
 
 Key responsibilities:
 - Architecting DevOps Solutions
